@@ -1,2 +1,2 @@
 # SuperGearsGamesCase
-INDIRME BAGLANTISI = https://we.tl/t-OVXhYqjIZg
+Indirmme Baglantisi = https://we.tl/t-OVXhYqjIZg
