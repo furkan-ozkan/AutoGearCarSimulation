@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5345fddd1e721e443bfebe30d0f23214, type: 3}
+  m_Name: DefaultCar
+  m_EditorClassIdentifier: 
+  maxRpm: 10000
+  maxSpeed: 320
+  autoGearRpm: 7500
+  gearSpeedScale:
+  - 15
+  - 17
+  - 20
+  - 22
+  - 25
+  - 32
